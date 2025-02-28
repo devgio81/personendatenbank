@@ -1,0 +1,53 @@
+PERSON:
+Vorname: Max
+Nachname: Mustermann
+Geburtsdatum: 15.05.1980
+Email: max.mustermann@example.com
+Handynummer: +49 123 4567890
+
+ADRESSE:
+Strasse: Musterstraße
+Hausnummer: 123
+PLZ: 12345
+Ort: Musterstadt
+Land: Deutschland
+ist_aktuell: true
+gueltig_von: 01.01.2020
+
+BANKVERBINDUNG:
+IBAN: DE89370400440532013000
+BIC: COBADEFFXXX
+Kontoinhaber: Max Mustermann
+Bankname: Musterbank
+
+PERSON:
+Vorname: Erika
+Nachname: Musterfrau
+Geburtsdatum: 23.11.1985
+Email: erika.musterfrau@example.com
+Handynummer: +49 987 6543210
+
+ADRESSE:
+Strasse: Beispielweg
+Hausnummer: 42
+PLZ: 54321
+Ort: Beispielstadt
+Land: Deutschland
+ist_aktuell: true
+gueltig_von: 15.03.2019
+
+ADRESSE:
+Strasse: Alte Straße
+Hausnummer: 7
+PLZ: 98765
+Ort: Altstadt
+Land: Deutschland
+ist_aktuell: false
+gueltig_von: 01.01.2015
+gueltig_bis: 14.03.2019
+
+BANKVERBINDUNG:
+IBAN: DE27100777770209299700
+BIC: DEUTDEFFXXX
+Kontoinhaber: Erika Musterfrau
+Bankname: Deutsche Bank 
